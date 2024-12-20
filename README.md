@@ -82,5 +82,5 @@ Several models were experimented with, but none achieved satisfactory accuracy, 
     Complex models like LSTM may have overfit the training data due to noise and sparsity in the anomaly labels.
 
 7. Conclusion
-Despite the low accuracy, this project provided valuable insights into anomaly detection in offshore naturally flowing wells. It underscored the importance of data preprocessing, feature engineering, and robust validation strategies. While the models fell short of desired performance, the outlined recommendations serve as a foundation for future improvements.
+Despite the low accuracy, this project provided valuable insights into anomaly detection in offshore naturally flowing wells. It underscored the importance of data preprocessing, feature engineering, and robust validation strategies. While the models fell short of desired performance.
     
